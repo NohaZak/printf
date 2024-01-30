@@ -25,7 +25,7 @@
  *
  * @plusFlag: on if plus_flag specified
  * @spaceFlag: on if space_flag specified
- * @hashtagFlaglag: on if _flag specified
+ * @hashtagFlag: on if _flag specified
  * @zeroFlag: on if zero_flag specified
  * @minusFlag: on if minus_flag specified
  *
